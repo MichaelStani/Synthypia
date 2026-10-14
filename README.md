@@ -56,4 +56,4 @@ Eingabegerät wählen, Übungsmodus einstellen und losspielen.
 
 ## Lizenz
 
-Noch nicht festgelegt. Das VST3 SDK unterliegt seiner eigenen Lizenz (MIT).
+[MIT](LICENSE). Das VST3 SDK in `third_party/vst3sdk` unterliegt seiner eigenen Lizenz (ebenfalls MIT, siehe die jeweiligen `LICENSE.txt`).
