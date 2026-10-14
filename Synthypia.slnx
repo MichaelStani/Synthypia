@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Synthypia/Synthypia.csproj" Id="73124519-6215-4964-9e89-28d85316c52e">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
